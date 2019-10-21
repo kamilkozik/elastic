@@ -8,4 +8,4 @@ elasticsearch-dsl==2.2.0
 elasticsearch==2.2.0      # via elasticsearch-dsl
 python-dateutil==2.6.0    # via elasticsearch-dsl
 six==1.10.0               # via elasticsearch-dsl, python-dateutil
-urllib3==1.20             # via elasticsearch
+urllib3==1.24.2           # via elasticsearch
